@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLPTool", "DLPTool\DLPTool.csproj", "{F463ECC0-49A0-4274-9594-6B0911A9C211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{59CAAC40-4EC3-4A63-9CD4-8C04FB39B3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F463ECC0-49A0-4274-9594-6B0911A9C211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F463ECC0-49A0-4274-9594-6B0911A9C211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F463ECC0-49A0-4274-9594-6B0911A9C211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F463ECC0-49A0-4274-9594-6B0911A9C211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CAAC40-4EC3-4A63-9CD4-8C04FB39B3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CAAC40-4EC3-4A63-9CD4-8C04FB39B3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CAAC40-4EC3-4A63-9CD4-8C04FB39B3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CAAC40-4EC3-4A63-9CD4-8C04FB39B3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8976FAA5-1E85-4CB4-ADF1-03937A12D83B}
+	EndGlobalSection
+EndGlobal
